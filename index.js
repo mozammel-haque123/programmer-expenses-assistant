@@ -1,6 +1,8 @@
 // Income input
 let caount = 0;
 
+
+
 const calculate = document.getElementById('calculate');
 calculate.addEventListener('click', function(){
 const income = parseFloat(document.getElementById('income').value) ;
